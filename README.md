@@ -1,6 +1,6 @@
 ## Hi, I'm Slowkit 👋
 
-🎮 Game Developer | Software Developer 
+🎮 Game Developer | Software Developer <br>  
 📍 Based in Portugal
 
 ## About Me
