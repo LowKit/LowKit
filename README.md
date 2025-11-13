@@ -7,9 +7,9 @@
 
 I’m a passionate game developer with a strong background in software development. I love building interactive experiences and solving complex problems through code.
 
-My journey started out of curiosity for how things work — and over time, that curiosity turned into a skillset spanning both game creation and software engineering.
+My journey started out of curiosity for how things work and over time, that curiosity turned into a skillset spanning both game creation and software engineering.
 
-While most of my projects are currently private, I’m working on making more of them open-source to share my process and growth with the community.
+While most of my projects are currently private, I’m working on making more of them open-source to share my process and growth.
 
 ## ⚙️ Tech Stack
 **Languages:**  
