@@ -5,7 +5,7 @@ Based in Portugal
 
 ## About Me
 
-I’m a passionate game developer with a strong background in software development. I love building projects as a hobby.
+I’m a game developer with a strong background in software development. I love building projects as a hobby.
 
 My journey started out of curiosity for how things work and over time, that curiosity turned into a skillset spanning both game creation and software engineering.
 
